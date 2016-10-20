@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-ub",
+  "version": "1.0.0",
+  "description": "Shared UB ESLint config (one to rule 'em all)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/universalbasket/eslint-config-ub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/universalbasket/eslint-config-ub/issues"
+  },
+  "homepage": "https://github.com/universalbasket/eslint-config-ub#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
