@@ -52,6 +52,7 @@ module.exports = {
         "no-inline-comments": 0,
         "no-lonely-if": 2,
         "no-mixed-requires": 2,
+        "no-multi-spaces": 2,
         "no-multiple-empty-lines": [ 2, { "max": 2 } ],
         "no-param-reassign": 0,
         "no-plusplus": "error",
