@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ub",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shared UB ESLint config (one to rule 'em all)",
   "main": "index.js",
   "repository": {

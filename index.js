@@ -69,7 +69,7 @@ module.exports = {
         "no-var": 2,
         "object-curly-spacing": [ "error", "always" ],
         "object-shorthand": "error",
-        "operator-linebreak": ["error", "after", { "overrides": { "?": "before", ":": "before" } }],
+        "operator-linebreak": ["error", "after"],
         "prefer-arrow-callback": ["error", { "allowNamedFunctions": true } ],
         "prefer-const": 2,
         "quotes": [ 2, "single" ],
