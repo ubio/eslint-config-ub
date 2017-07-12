@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/universalbasket/eslint-config-ub#readme",
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 4"
   }
 }

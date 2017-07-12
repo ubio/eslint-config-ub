@@ -1,20 +1,12 @@
 module.exports = {
     "extends": "eslint:recommended",
     "parserOptions": {
-        "ecmaVersion": 6
+        "ecmaVersion": 8
     },
     "env": {
         "node": true,
         "browser": false,
         "es6": true
-    },
-    "ecmaFeatures": {
-        "arrowFunctions": true,
-        "blockBindings": true,
-        "objectLiteralShorthandMethods": true,
-        "objectLiteralShorthandProperties": true,
-        "destructuring": true,
-        "templateStrings": true
     },
     "globals": {
         "it": true,
