@@ -4,18 +4,7 @@ module.exports = {
         "ecmaVersion": 8
     },
     "env": {
-        "node": true,
-        "browser": false,
         "es6": true
-    },
-    "globals": {
-        "it": true,
-        "before": true,
-        "after": true,
-        "beforeEach": true,
-        "afterEach": true,
-        "context": true,
-        "describe": true
     },
     "rules": {
         "array-bracket-spacing": [ "error", "never" ],
@@ -23,7 +12,7 @@ module.exports = {
         "arrow-spacing": "error",
         "brace-style": [ 2, "1tbs", { "allowSingleLine": true } ],
         "camelcase": 2,
-        "comma-dangle": [2, "always-multiline"],
+        "comma-dangle": ["error", "never"],
         "comma-style": [ "error", "last" ],
         "curly": 2,
         "eol-last": "error",
