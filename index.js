@@ -61,6 +61,7 @@ module.exports = {
         "space-before-function-paren": ["error", { "anonymous": "never", "named": "never" }],
         "space-in-parens": ["error", "never"],
         "space-infix-ops": "error",
-        "yoda": ["error", "never", { "exceptRange": true }]
+        "yoda": ["error", "never", { "exceptRange": true }],
+        "no-buffer-constructor": ["error"]
     }
 };
